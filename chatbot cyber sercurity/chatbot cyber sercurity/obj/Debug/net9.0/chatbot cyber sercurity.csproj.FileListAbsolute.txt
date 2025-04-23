@@ -1,0 +1,14 @@
+/Users/sikandarmungalee/RiderProjects/chatbot cyber sercurity/chatbot cyber sercurity/obj/Debug/net9.0/chatbot cyber sercurity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sikandarmungalee/RiderProjects/chatbot cyber sercurity/chatbot cyber sercurity/obj/Debug/net9.0/chatbot cyber sercurity.AssemblyInfoInputs.cache
+/Users/sikandarmungalee/RiderProjects/chatbot cyber sercurity/chatbot cyber sercurity/obj/Debug/net9.0/chatbot cyber sercurity.AssemblyInfo.cs
+/Users/sikandarmungalee/RiderProjects/chatbot cyber sercurity/chatbot cyber sercurity/obj/Debug/net9.0/chatbot cyber sercurity.csproj.CoreCompileInputs.cache
+/Users/sikandarmungalee/RiderProjects/chatbot cyber sercurity/chatbot cyber sercurity/bin/Debug/net9.0/chatbot cyber sercurity
+/Users/sikandarmungalee/RiderProjects/chatbot cyber sercurity/chatbot cyber sercurity/bin/Debug/net9.0/chatbot cyber sercurity.deps.json
+/Users/sikandarmungalee/RiderProjects/chatbot cyber sercurity/chatbot cyber sercurity/bin/Debug/net9.0/chatbot cyber sercurity.runtimeconfig.json
+/Users/sikandarmungalee/RiderProjects/chatbot cyber sercurity/chatbot cyber sercurity/bin/Debug/net9.0/chatbot cyber sercurity.dll
+/Users/sikandarmungalee/RiderProjects/chatbot cyber sercurity/chatbot cyber sercurity/bin/Debug/net9.0/chatbot cyber sercurity.pdb
+/Users/sikandarmungalee/RiderProjects/chatbot cyber sercurity/chatbot cyber sercurity/obj/Debug/net9.0/chatbot cyber sercurity.dll
+/Users/sikandarmungalee/RiderProjects/chatbot cyber sercurity/chatbot cyber sercurity/obj/Debug/net9.0/refint/chatbot cyber sercurity.dll
+/Users/sikandarmungalee/RiderProjects/chatbot cyber sercurity/chatbot cyber sercurity/obj/Debug/net9.0/chatbot cyber sercurity.pdb
+/Users/sikandarmungalee/RiderProjects/chatbot cyber sercurity/chatbot cyber sercurity/obj/Debug/net9.0/chatbot cyber sercurity.genruntimeconfig.cache
+/Users/sikandarmungalee/RiderProjects/chatbot cyber sercurity/chatbot cyber sercurity/obj/Debug/net9.0/ref/chatbot cyber sercurity.dll
